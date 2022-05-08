@@ -1,15 +1,15 @@
-﻿Build started 3/21/2022 11:42:43 PM.
-     1>Project "E:\Desktop\Word Maestro\Word Maestro\Word Maestro.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 09-May-22 1:47:30 AM.
+     1>Project "E:\UNIVERSITY\1.2\Project\Word Maestro\Word Maestro\Word Maestro.vcxproj" on node 2 (Build target(s)).
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
          D:\Softwares\VC\bin\CL.exe /c /Iinclude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
          iMain.cpp
-     1>e:\desktop\word maestro\word maestro\functionsheader.h(806): warning C4101: 'primX' : unreferenced local variable
+     1>e:\university\1.2\project\word maestro\word maestro\functionsheader.h(806): warning C4101: 'primX' : unreferenced local variable
        Link:
-         D:\Softwares\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Desktop\Word Maestro\Debug\Word Maestro.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Desktop\Word Maestro\Debug\Word Maestro.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Desktop\Word Maestro\Debug\Word Maestro.lib" /MACHINE:X86 Debug\iMain.obj
-         Word Maestro.vcxproj -> E:\Desktop\Word Maestro\Debug\Word Maestro.exe
-     1>Done Building Project "E:\Desktop\Word Maestro\Word Maestro\Word Maestro.vcxproj" (Rebuild target(s)).
+         D:\Softwares\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\UNIVERSITY\1.2\Project\Word Maestro\Debug\Word Maestro.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\UNIVERSITY\1.2\Project\Word Maestro\Debug\Word Maestro.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\UNIVERSITY\1.2\Project\Word Maestro\Debug\Word Maestro.lib" /MACHINE:X86 Debug\iMain.obj
+         Word Maestro.vcxproj -> E:\UNIVERSITY\1.2\Project\Word Maestro\Debug\Word Maestro.exe
+     1>Done Building Project "E:\UNIVERSITY\1.2\Project\Word Maestro\Word Maestro\Word Maestro.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:02.53
+Time Elapsed 00:00:05.16
