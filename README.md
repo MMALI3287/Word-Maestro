@@ -21,4 +21,4 @@ Copyright (c) [2022]  [MD Musaddique Ali Erfan]
 [![GitHub forks](https://img.shields.io/github/forks/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/network)
 [![GitHub stars](https://img.shields.io/github/stars/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/stargazers)
 [![GitHub license](https://img.shields.io/github/license/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)]((https://twitter.com/MusaddiqueMMALI/status/1524051753943322624))
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/MusaddiqueMMALI/status/1524051753943322624)
