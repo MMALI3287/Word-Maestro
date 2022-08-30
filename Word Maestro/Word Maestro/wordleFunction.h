@@ -131,7 +131,7 @@ void showHighscore()
 		zero = 6;
 		scx = 1015;
 		scs = highscores[i].score;
-		iShowBMP2(scx - 155, scy, sc[i+1], 0);
+		iShowBMP2(scx - 155, scy, sc[i + 1], 0);
 		while (scs != 0)
 		{
 			iShowBMP2(scx, scy, sc[scs % 10], 0); // String directory

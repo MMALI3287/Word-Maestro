@@ -90,7 +90,7 @@ void pickWord1()
 	word2[dash2[ind]] = '_';
 	cout << word1[dash2[ind]] << endl;
 	numOfBlank++;
-	*(dash+1) = dash2[ind];
+	*(dash + 1) = dash2[ind];
 	cout << word1[dash[0]] << endl;
 	cout << word1[dash[1]] << endl;
 	// printing word2//

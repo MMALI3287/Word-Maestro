@@ -11,7 +11,8 @@ int readCount = 0;
 string word1 = "";
 int numOfBlank = 0, dashInd = 0, gap = 0, curRanNum = 0, prevRanNum = 0, ind, scr, dash[4];
 int *d = dash;
-int dash1[4] = {0, 1, 2}, dash2[3] = {3, 4, 5}, dash3[4] = {0, 1, 2}, dash4[2] = {3, 4}, dash5[3] = {5, 6, 7}, dash6[2] = {0, 1}, dash7[2] = {2, 3}, dash8[3] = {4, 5, 6}, dash9[2] = {7, 8};
+int dash1[4] = {0, 1, 2}, dash2[3] = {3, 4, 5}, dash3[4] = {0, 1, 2}, dash4[2] = {3, 4}, dash5[3] = {5, 6, 7},
+dash6[2] = {0, 1}, dash7[2] = {2, 3}, dash8[3] = {4, 5, 6}, dash9[2] = {7, 8};
 char letter;
 int mposx, mposy;
 int gameState = 0;

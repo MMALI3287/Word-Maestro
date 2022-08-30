@@ -6,7 +6,7 @@
  *      Author: Jisan Mahmud
  */
 
-#pragma warning(disable:4996)
+#pragma warning(disable : 4996)
 #include <stdio.h>
 #define _RGB_TO_INT(rgb) ((rgb).rgbtRed | ((rgb).rgbtGreen << 8) | ((rgb).rgbtBlue << 16))
 
