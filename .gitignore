@@ -1,2 +1,6 @@
+# Generated files
 *.prompt.md
 PROJECT_PORTFOLIO.md
+
+# Keep all other project files tracked
+# Use git add -f if you need to force add an ignored file
