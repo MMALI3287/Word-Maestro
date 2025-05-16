@@ -1,10 +1,14 @@
 # Word-Maestro 🎮
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/releases)
 [![GitHub issues](https://img.shields.io/github/issues/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/issues)
 [![GitHub forks](https://img.shields.io/github/forks/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/network)
 [![GitHub stars](https://img.shields.io/github/stars/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/stargazers)
 [![GitHub license](https://img.shields.io/github/license/MMALI3287/Word-Maestro)](https://github.com/MMALI3287/Word-Maestro/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/MusaddiqueMMALI/status/1524051753943322624)
+[![Language](https://img.shields.io/badge/language-C++-blue.svg)](https://isocpp.org/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-v3.3-blue.svg)](https://www.opengl.org/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2010%20%7C%202013-purple.svg)](https://visualstudio.microsoft.com/)
+[![Twitter Post](https://img.shields.io/badge/Twitter-Post-1DA1F2?logo=twitter&style=flat)](https://twitter.com/MusaddiqueMMALI/status/1524051753943322624)
 
 ## 📋 Overview
 
@@ -73,7 +77,7 @@ Contributions are welcome! Feel free to submit issues and enhancement requests.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE)
 
 Copyright (c) 2022 MD Musaddique Ali Erfan
 
